@@ -1,0 +1,6 @@
+#!/Users/huanghanyou/Desktop/大四下/毕业论文/20260312-ccf-shap/venv_mac/bin/python3.13
+import sys
+from nltk.cli import cli
+if __name__ == '__main__':
+    sys.argv[0] = sys.argv[0].removesuffix('.exe')
+    sys.exit(cli())
