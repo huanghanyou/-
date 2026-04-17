@@ -2,7 +2,6 @@
 
 基于可解释性方法的 Transformer 模型可视化研究——以教育行为分析与工程故障诊断为例
 
-**作者：** Huanghanyou
 **语言：** Python 3.9+  
 **框架：** PyTorch 2.0+
 
